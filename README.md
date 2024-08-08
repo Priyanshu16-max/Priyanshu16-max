@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanshu16-max
+- 👋 Hi, I’m @Priyanshu pareek 
 - 👀 I’m interested in ... Programming 
 - 🌱 I’m currently learning ...Java And DSA 
 - 💞️ I’m looking to collaborate on ...
